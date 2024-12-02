@@ -1,7 +1,7 @@
 # Hackaton 2024 - Controle Fácil de Gorjetas - Matriz CSD
 
 ## Índice
-- [Informações Base](#-informações-base)
+- [Informações Base](#informações-base)
 - [Autores](#-autores)
 
 <br>
