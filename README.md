@@ -55,7 +55,7 @@ A lei ainda estabelece que as empresas com mais de 60 funcionários devem instit
 
 ___
 
-<strong>Referência: </strong><a href="https://saipos.com/sistema/restaurante/lei-da-gorjeta">https://saipos.com/sistema/restaurante/lei-da-gorjeta</a>
+> <strong>Referência: </strong><a href="https://saipos.com/sistema/restaurante/lei-da-gorjeta">https://saipos.com/sistema/restaurante/lei-da-gorjeta</a>
 
 <br>
 
@@ -106,7 +106,7 @@ ___
 > Referência: <a href="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia/2020/02/empregos-avancam-no-setor-de-turismo">https://www.gov.br/pt-br/noticias/trabalho-e-previdencia/2020/02/empregos-avancam-no-setor-de-turismo</a>
 
 - Segundo dados do IBGE, há cerca de 1 milhão de bares e restaurantes no Brasil, além de inúmeros hotéis, pousadas e alojamentos, todos agrupados no setor de alimentos e hospitalidade. O segmento de alimentação fora do lar (bares, restaurantes, etc.) representa 75% a 80% do mercado de foodservice nacional. <br>
-> Referência: <a href="https://abrasel.com.br/revista/artigos-de-opiniao/sergio-molinari-as-expectativas-para-o-foodservice-em-2024/">https://abrasel.com.br/revista/artigos-de-opiniao/sergio-molinari-as-expectativas-para-o-foodservice-em-2024/</a>
+> Referência: <a href="https://abrasel.com.br/revista/artigos-de-opiniao/sergio-molinari-as-expectativas-para-o-foodservice-em-2024/">https://abrasel.com.br/revista/artigos-de-opiniao/sergio-molinari-as-expectativas-para-o-foodservice-em-2024/</a> <br>
 > Referência: <a href="https://abrasel.com.br/noticias/noticias/bares-restaurantes-volume-de-vendas/">https://abrasel.com.br/noticias/noticias/bares-restaurantes-volume-de-vendas/</a>
 
 - Segundo o levantamento, 83% dos estabelecimentos usam hoje algum tipo de software para controlar as vendas, enquanto 75% empregam ferramentas para o controle financeiro e 67% adotam soluções para o serviço de delivery. No entanto, ainda há espaço para crescimento em áreas como controle de reservas, aspectos jurídicos e segurança alimentar. <br>
@@ -166,8 +166,8 @@ ___
 
 ## 👥 Autores
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/168394448?v=4" width=115><br><sub>Lorenzo Rover</sub>](https://github.com/lorenzorover) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/168482892?v=4" width=115><br><sub>Lucas Lentz</sub>](https://github.com/lucas-lentz) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/159506794?v=4" width=115><br><sub>Kaio Gredilha Pinheiro</sub>](https://github.com/Kaio-pinheiro) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/114513409?v=4" width=115><br><sub>João Ribeiro Scharmann</sub>](https://github.com/JRScharmann) | [<img loading="lazy" src="" width=115><br><sub>Pedro Dalsenter</sub>]() |
-| :---: | :---: | :---: | :---: | :---: |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/168394448?v=4" width=115><br><sub>Lorenzo Rover</sub>](https://github.com/lorenzorover) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/168482892?v=4" width=115><br><sub>Lucas Lentz</sub>](https://github.com/lucas-lentz) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/159506794?v=4" width=115><br><sub>Kaio Gredilha Pinheiro</sub>](https://github.com/Kaio-pinheiro) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/114513409?v=4" width=115><br><sub>João Ribeiro Scharmann</sub>](https://github.com/JRScharmann) | [<img loading="lazy" src="" width=115><br><sub>Pedro Dalsenter</sub>]() | [<img loading="lazy" src="" width=115><br><sub>Manuela Skrsypcsak Kist</sub>]() |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 
 <br>
 
