@@ -109,6 +109,19 @@ Os resultados da pesquisa, feita com 2.128 empresários do setor em todo o Brasi
 
 <br>
 
+## Dados de Entrevistas
+
+Com todos os restaurantes que frequentamos, mesmo com sistemas para gerenciar estoque, cardápio, pós vendas, integrar com iFood, dentre outros (como Goomer, Sischef, etc), a parte das taxas de serviço e gorjetas não é dividida digitalmente;
+
+Normalmente a taxa de serviço (10%) é dividida entre todos dos restaurante, e se há uma gorjeta individual, fica pra aquele empregado. Tudo isso é repassado ao fim do expediente e manualmente.
+
+É difícil alguém dar gorjeta para os entregadores, ainda mais usando sistemas como iFood.
+Um dos restaurantes respondeu que a cada 100 entregas, 1 ganha gorjeta, que a distribuição fica por conta do aplicativo de delivery.
+
+Muitos dos estabelecimentos não tem empregados de carteira assinada para atender as mesas. Acabam sendo os próprios sócios ou freelancers que fazem o atendimento. Ai o repasse é feito manualmente pra essas pessoas nos dias que elas vem trabalhar ou para o estabelecimento (se não tiver nenhum empregado CLT).
+
+<br>
+
 ## Certezas
 
 - Há regulamentação legal para gorjetas no Brasil (artigo 457 da CLT), que exige repasse aos funcionários e recolhimento de encargos sociais.
