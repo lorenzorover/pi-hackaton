@@ -1,8 +1,14 @@
 # Hackaton 2024 - Controle Fácil de Gorjetas - Matriz CSD
 
+## Índice
+- [Informações Base](#-informacoes-base)
+- [Autores](#-autores)
+
+<br>
+
 ## Informações Base
 
-Lei Nº 13.419, mais conhecido como <strong>Lei da Gorjeta</strong>: <br>
+Lei Nº 13.419, mais conhecido como <i><strong>Lei da Gorjeta</strong></i>: <br>
 > Link: <a href="https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/L13419.htm">https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/L13419.htm</a>
 
 ___
