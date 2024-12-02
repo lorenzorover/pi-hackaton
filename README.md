@@ -2,6 +2,10 @@
 
 ## Índice
 - [Informações Base](#informações-base)
+- [Dados Gerais](#dados-gerais)
+- [Dados de Entrevistas](#dados-de-entrevistas)
+- [Certezas](#certezas)
+- [Dúvidas e Respostas](#dúvidas-e-respostas)
 - [Autores](#-autores)
 
 <br>
@@ -55,7 +59,7 @@ ___
 
 <br>
 
-## Dados
+## Dados Gerais
 
 ### Setor de alojamento e alimentação:
 
